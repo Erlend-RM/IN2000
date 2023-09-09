@@ -9,10 +9,10 @@ Spillet gikk ut på at man skulle kaster et papirfly ut fra forskjellige steder 
 vi værdataen til denne posisjonen og stedene rundt slik at flyet blir påvirket av det faktiske været i nå tid.
 
 Gruppen kalte seg Windcatcher og slik så logoen våres ut:
-n/<img width="45" alt="Logo" src="https://github.com/Erlend-RM/IN2000/assets/121941031/d3ed6ee5-4735-4f13-9116-e2b583c028da">
+<br><img width="45" alt="Logo" src="https://github.com/Erlend-RM/IN2000/assets/121941031/d3ed6ee5-4735-4f13-9116-e2b583c028da">
 
-Her er noen bilder av hvordan appen ble seende ut til slutt:
-//Værinfo og posisjonsvalg:
+Her er noen bilder av hvordan appen ble seende ut til slutt:<br>
+Værinfo og posisjonsvalg:
 ![image](https://github.com/Erlend-RM/IN2000/assets/121941031/536741bc-37a8-4be3-9e94-e974fc6859ac)
 
 Kast og oppsummering av ferden:
