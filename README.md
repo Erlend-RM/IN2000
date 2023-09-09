@@ -8,7 +8,7 @@ Min gruppe som bestod av 6 personer bestemte oss for å tenke utenfor boksen og 
 Spillet gikk ut på at man skulle kaster et papirfly ut fra forskjellige steder rundt omkring i Norge. Her henter
 vi værdataen til denne posisjonen og stedene rundt slik at flyet blir påvirket av det faktiske været i nå tid.
 
-Gruppen kalte seg Windcatcher ![image](https://github.com/Erlend-RM/IN2000/assets/121941031/7716b818-7908-48b5-81c1-1ba39b35edc2 | width =100)
+Gruppen kalte seg Windcatcher ![image](https://github.com/Erlend-RM/IN2000/assets/121941031/7716b818-7908-48b5-81c1-1ba39b35edc2 =100x100)
 
 Her er noen bilder av hvordan appen ble seende ut til slutt:
 #Værinfo og posisjonsvalg:
