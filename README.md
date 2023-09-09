@@ -18,7 +18,7 @@ Værinfo og posisjonsvalg:
 Kast og oppsummering av ferden:
 ![image](https://github.com/Erlend-RM/IN2000/assets/121941031/8521ff79-3c95-48dd-9e23-215f76218fd3)
 
-Personalisering
+Personalisering:
 ![image](https://github.com/Erlend-RM/IN2000/assets/121941031/334a1e75-7c5c-406a-9f62-43607e615606)
 
 
