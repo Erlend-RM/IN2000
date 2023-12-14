@@ -3,7 +3,7 @@
 #Info
 Dette er det største prosjektet jeg var med på under studie. 
 
-Alle gruppene skulle lage en applikasjon der man tok meteorologisk institutts sine apier og lage noe ut av dette. 
+Alle gruppene skulle lage en applikasjon der man tok meteorologisk institutts sine apier og laget noe ut av dette. 
 Min gruppe som bestod av 6 personer bestemte oss for å tenke utenfor boksen og laget derfor et spill.
 Spillet gikk ut på at man skulle kaster et papirfly ut fra forskjellige steder rundt omkring i Norge. Her henter
 vi værdataen til denne posisjonen og stedene rundt slik at flyet blir påvirket av det faktiske været i nå tid.
